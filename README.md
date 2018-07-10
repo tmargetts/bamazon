@@ -10,6 +10,8 @@ In order to run the app, the MySQL database should be set up on your computer. I
 
 The customer interface allows the customer to view the current inventory of Blockbuster videos, which include the item IDs, name, department (genre), and price. The customer is then able to purchase one of the existing items by entering the item ID and the desired quantity. If the selected quantity is currently in stock, the user's order is fulfilled, displaying the total purchase price and updating the store database. If the desired quantity is not available, the user is prompted to modify their order.
 
+Technologies Utilized: Node.js and MySQL
+
 Below is a link to Google Doc with visual screen shots
 
 [Google Doc](https://docs.google.com/document/d/1a4lrum56XMuGEv88xwHGveW13I7abAggQvSw2wKfy7I/edit?usp=sharing)
